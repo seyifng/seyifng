@@ -76,9 +76,9 @@ I'm a senior at **VCU** studying Computer Science, with a deep passion for **fro
 
 - Designed and deployed a **mobile-first, responsive** single-page application using React, Vite, and TypeScript
 - Implemented **SEO best practices** and integrated Google Reviews API with a custom reviews UI
-- Managed full deployment pipeline with Git, Docker, and Vercel
+- Managed full deployment pipeline with Git and Vercel
 
-`React` `TypeScript` `Vite` `Docker` `Vercel` `Google APIs`
+`React` `TypeScript` `Vite` `Vercel` `Google APIs`
 
 ---
 
